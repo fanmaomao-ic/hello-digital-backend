@@ -11,8 +11,8 @@ My first digital back-end learning project
 - **脚本**: TCL, Python
 
 ## 项目进展
-- [x] RTL设计完成
-- [x] 综合完成  
+- [ ] RTL设计完成
+- [ ] 综合完成  
 - [ ] 物理实现
 - [ ] 时序优化
 
